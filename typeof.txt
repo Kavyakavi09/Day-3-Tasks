@@ -1,0 +1,46 @@
+4) Execute the below code and write your description in txt file
+
+ The type of a variable is determined by the type of the value assigned to it.
+ JavaScript has a special operator called typeof which let us get the type of any value.
+
+ Syntax :
+ The typeof operator is followed by its operand:
+ typeof operand
+typeof(operand)
+
+a) typeof(1)
+console.log(typeof(1));  //number
+The data type of 1 is number.
+
+b) typeof(1.1)
+console.log(typeof(1.1));  //number
+The data type of 1.1 is number.
+
+c) typeof('1.1')
+console.log(typeof('1.1')); //string
+The data type of '1.1' is string.
+
+d) typeof(true)
+console.log(typeof(true));   //Boolean
+The data type of true is boolean.
+
+e) typeof(null)
+console.log(typeof(null));    //object
+The data type of null is object.
+
+f) typeof(undefined)
+console.log(typeof(undefined));  //undefined
+The data type of an undefined variable is undefined.
+The data type of a variable that has not been assigned a value is also undefined.
+
+g) typeof([])
+console.log(typeof([]));  //object
+The data type of an array is object.
+
+h) typeof({})
+console.log(typeof({})); //object
+The data type of {} is object.
+
+i) typeof(NaN)
+console.log(typeof(NaN)); // number
+The data type of NaN is number.
