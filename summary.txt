@@ -9,4 +9,4 @@ start tag- <tagname>  End tag - </tagname>
 
 It coverd HTML parse and CSS parse and DOM extra.
 
-This presentation totally about how the website works by using HTML,CSS .
+This presentation totally about how the website works by using HTML,CSS.

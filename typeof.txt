@@ -42,5 +42,5 @@ console.log(typeof({})); //object
 The data type of {} is object.
 
 i) typeof(NaN)
-console.log(typeof(NaN)); // number
+console.log(typeof(NaN)); // number 
 The data type of NaN is number.
